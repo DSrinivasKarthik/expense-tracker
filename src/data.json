@@ -1,0 +1,40 @@
+{
+  "sections": [
+    {
+      "id": 1,
+      "name": "Teaching and Learning",
+      "budget": 340000,
+      "subsections": [
+        {
+          "id": 101,
+          "name": "EQUIPMENT / INFRASTRUCTURE/SOFTWARE ACCOUNT (SF Account)",
+          "budget": 340000
+        },
+        {
+          "id": 102,
+          "name": "DISTINGUISHED LECTURERS ACCOUNT",
+          "budget": 25000
+        }
+      ],
+      "expenses": []
+    },
+    {
+      "id": 2,
+      "name": "Staff Development",
+      "budget": 150000,
+      "subsections": [
+        {
+          "id": 201,
+          "name": "ATTENDING CONFERENCES/SEMINARS/STTP COURSE ACCOUNT",
+          "budget": 50000
+        },
+        {
+          "id": 202,
+          "name": "INDUSTRIAL TRAINING ACCOUNT",
+          "budget": 100000
+        }
+      ],
+      "expenses": []
+    }
+  ]
+}
